@@ -1,2 +1,3 @@
 # hello_world1
 this repository is for practicing git hub
+my name is Ajdin i like programming and basketball itd...
